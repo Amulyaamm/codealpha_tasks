@@ -1,0 +1,38 @@
+{
+  "greetings": {
+    "patterns": [
+      "hi",
+      "hello",
+      "hey",
+      "good morning",
+      "good afternoon",
+      "good evening",
+      "hii",
+      "helo"
+    ],
+    "response": "👋 Hello! Welcome to the CodeAlpha AI Internship Assistant. I'm here to answer your internship-related questions."
+  },
+
+  "thanks": {
+    "patterns": [
+      "thanks",
+      "thank you",
+      "thankyou",
+      "thanks a lot",
+      "thank u"
+    ],
+    "response": "😊 You're welcome! Feel free to ask me anything else about the CodeAlpha AI Internship."
+  },
+
+  "goodbye": {
+    "patterns": [
+      "bye",
+      "goodbye",
+      "see you",
+      "see ya",
+      "exit",
+      "quit"
+    ],
+    "response": "👋 Goodbye! Best wishes for your CodeAlpha AI Internship."
+  }
+}

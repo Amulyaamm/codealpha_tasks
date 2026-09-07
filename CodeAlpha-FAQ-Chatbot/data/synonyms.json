@@ -1,0 +1,66 @@
+{
+  "internship": [
+    "intern",
+    "training",
+    "program",
+    "course"
+  ],
+
+  "task": [
+    "project",
+    "assignment",
+    "work",
+    "tasks"
+  ],
+
+  "certificate": [
+    "certification",
+    "completion",
+    "completion certificate",
+    "qr certificate",
+    "lor"
+  ],
+
+  "github": [
+    "repo",
+    "repository",
+    "git",
+    "git hub"
+  ],
+
+  "submission": [
+    "submit",
+    "upload",
+    "google form",
+    "form"
+  ],
+
+  "linkedin": [
+    "linkedin post",
+    "social media",
+    "post"
+  ],
+
+  "website": [
+    "portal",
+    "site",
+    "web"
+  ],
+
+  "chatbot": [
+    "bot",
+    "assistant",
+    "ai assistant"
+  ],
+
+  "faq": [
+    "questions",
+    "frequently asked questions"
+  ],
+
+  "translation": [
+    "translator",
+    "translate",
+    "language translation"
+  ]
+}

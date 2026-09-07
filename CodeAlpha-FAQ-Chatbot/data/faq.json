@@ -1,0 +1,562 @@
+[
+  {
+    "category": "General",
+    "question": "What is CodeAlpha?",
+    "answer": "CodeAlpha is a software development company that offers internship programs, skill development opportunities, and real-world projects in domains such as Artificial Intelligence, Web Development, Cyber Security, Java Programming, and Data Science."
+  },
+  {
+    "category": "General",
+    "question": "What is the CodeAlpha AI Internship?",
+    "answer": "The CodeAlpha AI Internship is a virtual internship where students build practical Artificial Intelligence projects, upload them to GitHub, share them on LinkedIn, and submit them for evaluation."
+  },
+  {
+    "category": "General",
+    "question": "Is the internship online?",
+    "answer": "Yes. The CodeAlpha internship is completely online and can be completed remotely from anywhere."
+  },
+  {
+    "category": "Eligibility",
+    "question": "Who can apply for the internship?",
+    "answer": "Students, recent graduates, and learners interested in Artificial Intelligence and software development can participate in the internship."
+  },
+  {
+    "category": "Eligibility",
+    "question": "Can first year students apply?",
+    "answer": "Yes. Students from any year who meet the internship requirements can participate."
+  },
+  {
+    "category": "Eligibility",
+    "question": "Can second year students apply?",
+    "answer": "Yes. Second year students can participate."
+  },
+  {
+    "category": "Eligibility",
+    "question": "Can third year students apply?",
+    "answer": "Yes. Third year students can participate."
+  },
+  {
+    "category": "Eligibility",
+    "question": "Can final year students apply?",
+    "answer": "Yes. Final year students are encouraged to participate."
+  },
+  {
+    "category": "Eligibility",
+    "question": "Can graduates join?",
+    "answer": "Yes. Recent graduates can participate."
+  },
+  {
+    "category": "Eligibility",
+    "question": "Can non-CS students apply?",
+    "answer": "Yes. Students from different branches with an interest in AI and programming can participate."
+  },
+  {
+    "category": "Eligibility",
+    "question": "Can BCA students apply?",
+    "answer": "Yes. BCA students can participate."
+  },
+  {
+    "category": "Eligibility",
+    "question": "Can MCA students apply?",
+    "answer": "Yes. MCA students can participate."
+  },
+  {
+    "category": "Eligibility",
+    "question": "Is there a minimum CGPA requirement?",
+    "answer": "Check your official CodeAlpha offer letter and internship instructions for the applicable eligibility requirements."
+  },
+  {
+    "category": "Eligibility",
+    "question": "Do I need previous AI experience?",
+    "answer": "No. Beginners can learn the required concepts while working on the projects."
+  },
+  {
+    "category": "Internship",
+    "question": "What is CodeAlpha Internship?",
+    "answer": "CodeAlpha Internship is an online internship program that allows students to gain practical experience by completing real-world projects."
+  },
+  {
+    "category": "Internship",
+    "question": "What does CodeAlpha offer?",
+    "answer": "CodeAlpha offers internships, project-based learning, skill development, certificates, and placement support."
+  },
+  {
+    "category": "Internship",
+    "question": "Can I do the internship from home?",
+    "answer": "Yes. The internship is virtual and can be completed from home."
+  },
+  {
+    "category": "Internship",
+    "question": "Can I complete the internship on weekends?",
+    "answer": "Yes. Since the internship is virtual, you can plan your work according to your schedule and deadlines."
+  },
+  {
+    "category": "Internship",
+    "question": "How long is the internship?",
+    "answer": "The duration depends on your official internship offer letter and instructions."
+  },
+  {
+    "category": "Internship",
+    "question": "Will I get real project experience?",
+    "answer": "Yes. The internship focuses on practical projects that provide hands-on development experience."
+  },
+  {
+    "category": "Internship",
+    "question": "Can I learn while doing the internship?",
+    "answer": "Yes. The internship allows you to learn concepts while building practical projects."
+  },
+  {
+    "category": "Internship",
+    "question": "Can I use my own laptop?",
+    "answer": "Yes. You can develop the projects using your personal computer."
+  },
+  {
+    "category": "Tasks",
+    "question": "How many tasks should I complete?",
+    "answer": "You must complete at least two assigned tasks to satisfy the internship completion criteria according to the provided internship instructions."
+  },
+  {
+    "category": "Tasks",
+    "question": "Can I complete three tasks?",
+    "answer": "Yes. Completing three tasks is encouraged because it demonstrates additional effort and skills."
+  },
+  {
+    "category": "Tasks",
+    "question": "Can I complete only one task?",
+    "answer": "No. Completing only one task does not satisfy the stated completion requirement."
+  },
+  {
+    "category": "Tasks",
+    "question": "Can I complete all four projects?",
+    "answer": "Yes. Completing all available projects demonstrates additional skills and effort."
+  },
+  {
+    "category": "Tasks",
+    "question": "What AI projects are available?",
+    "answer": "The AI projects include Language Translation Tool, FAQ Chatbot, Object Detection and Tracking, and Music Generation with AI."
+  },
+  {
+    "category": "Tasks",
+    "question": "Which project is easiest?",
+    "answer": "The FAQ Chatbot is generally a good starting project for beginners because it can be built using NLP, TF-IDF, and Cosine Similarity."
+  },
+  {
+    "category": "Tasks",
+    "question": "Which project is difficult?",
+    "answer": "Object Detection and Tracking can be more challenging because it involves computer vision, YOLO, video processing, and object tracking."
+  },
+  {
+    "category": "Tasks",
+    "question": "Can I modify the project UI?",
+    "answer": "Yes. You can improve the user interface and add professional features while keeping the required project functionality."
+  },
+  {
+    "category": "Tasks",
+    "question": "Can I add extra features?",
+    "answer": "Yes. Adding useful features demonstrates creativity and technical ability."
+  },
+  {
+    "category": "Tasks",
+    "question": "Can I use VS Code?",
+    "answer": "Yes. VS Code is suitable for developing Python and AI projects."
+  },
+  {
+    "category": "Tasks",
+    "question": "Can I use PyCharm?",
+    "answer": "Yes. PyCharm is also suitable for Python and AI development."
+  },
+  {
+    "category": "Project",
+    "question": "What is the FAQ Chatbot project?",
+    "answer": "The FAQ Chatbot is an NLP-based application that answers user questions by matching them with the most relevant question in a predefined FAQ database using TF-IDF and Cosine Similarity."
+  },
+  {
+    "category": "Project",
+    "question": "What is the Language Translation Tool?",
+    "answer": "It is an application that translates text from one language to another using translation APIs or suitable translation libraries."
+  },
+  {
+    "category": "Project",
+    "question": "What is Object Detection and Tracking?",
+    "answer": "Object Detection and Tracking is a computer vision project that detects objects in video using models such as YOLO and tracks them across frames using algorithms such as SORT or Deep SORT."
+  },
+  {
+    "category": "Project",
+    "question": "What is Music Generation with AI?",
+    "answer": "Music Generation with AI is a deep learning project that can use neural networks such as LSTM to learn musical patterns and generate new MIDI music."
+  },
+  {
+    "category": "Project",
+    "question": "What technologies are used in the FAQ chatbot?",
+    "answer": "The chatbot uses Python, Flask, HTML, CSS, JavaScript, NLTK, Scikit-learn, TF-IDF Vectorizer, and Cosine Similarity."
+  },
+  {
+    "category": "Project",
+    "question": "Can I improve the chatbot UI?",
+    "answer": "Yes. You can create a professional, responsive, modern interface with animations and additional chatbot features."
+  },
+  {
+    "category": "FAQ Chatbot",
+    "question": "Which algorithm is used in the FAQ chatbot?",
+    "answer": "The chatbot uses TF-IDF Vectorizer and Cosine Similarity to find the most relevant stored FAQ."
+  },
+  {
+    "category": "FAQ Chatbot",
+    "question": "Does the chatbot use machine learning?",
+    "answer": "The chatbot uses NLP and text-vectorization techniques such as TF-IDF and Cosine Similarity rather than a deep learning model."
+  },
+  {
+    "category": "FAQ Chatbot",
+    "question": "Can I add more questions to the chatbot?",
+    "answer": "Yes. Adding more FAQ entries and alternative question phrasings improves the chatbot's coverage."
+  },
+  {
+    "category": "FAQ Chatbot",
+    "question": "How can I improve chatbot accuracy?",
+    "answer": "Add more relevant FAQs, include different ways users may ask the same question, and improve text preprocessing."
+  },
+  {
+    "category": "FAQ Chatbot",
+    "question": "Can the chatbot answer similar questions?",
+    "answer": "Yes. The chatbot compares the similarity between the user's question and stored FAQ questions."
+  },
+  {
+    "category": "General",
+    "question": "What is NLP?",
+    "answer": "Natural Language Processing is a field of Artificial Intelligence that enables computers to understand, process, and respond to human language."
+  },
+  {
+    "category": "General",
+    "question": "What is TF-IDF?",
+    "answer": "TF-IDF stands for Term Frequency-Inverse Document Frequency. It converts text into numerical vectors by measuring the importance of words."
+  },
+  {
+    "category": "General",
+    "question": "What is Cosine Similarity?",
+    "answer": "Cosine Similarity measures how similar two text vectors are. The chatbot uses it to find the FAQ that best matches the user's question."
+  },
+  {
+    "category": "General",
+    "question": "What programming language is used?",
+    "answer": "The project is primarily developed using Python along with Flask, HTML, CSS, and JavaScript."
+  },
+  {
+    "category": "General",
+    "question": "How does this chatbot work?",
+    "answer": "The chatbot preprocesses user input, converts text into TF-IDF vectors, compares it with stored FAQ questions using Cosine Similarity, and returns the most relevant answer."
+  },
+  {
+    "category": "General",
+    "question": "Can I add animations to the chatbot?",
+    "answer": "Yes. Libraries such as LottieFiles can be used to add professional animations."
+  },
+  {
+    "category": "General",
+    "question": "Can I use a Lottie animation?",
+    "answer": "Yes. A Lottie animation can be added to the home page to create a professional animated AI assistant visual."
+  },
+  {
+    "category": "General",
+    "question": "Can the chatbot be mobile responsive?",
+    "answer": "Yes. The interface can be designed to work on desktop, tablet, and mobile devices."
+  },
+  {
+    "category": "GitHub",
+    "question": "How should I name my GitHub repository?",
+    "answer": "Your GitHub repository should follow the format CodeAlpha_ProjectName."
+  },
+  {
+    "category": "GitHub",
+    "question": "Should my GitHub repository be public?",
+    "answer": "Yes. The repository should be public if the internship instructions require evaluators to review your source code."
+  },
+  {
+    "category": "GitHub",
+    "question": "Should I upload the complete source code?",
+    "answer": "Yes. Upload the complete project including source code, README, screenshots, requirements file, and required assets."
+  },
+  {
+    "category": "GitHub",
+    "question": "Should I create a README?",
+    "answer": "Yes. A detailed README should explain the project, technologies, installation steps, usage, and features."
+  },
+  {
+    "category": "GitHub",
+    "question": "Should I upload screenshots?",
+    "answer": "Yes. Screenshots help reviewers understand and evaluate the project."
+  },
+  {
+    "category": "GitHub",
+    "question": "Should I upload requirements.txt?",
+    "answer": "Yes. Include requirements.txt so the required Python dependencies can be installed."
+  },
+  {
+    "category": "GitHub",
+    "question": "Can I edit my repository after submission?",
+    "answer": "Yes. You can update your GitHub repository, but ensure the submitted project remains accessible and working."
+  },
+  {
+    "category": "LinkedIn",
+    "question": "Should I post my project on LinkedIn?",
+    "answer": "Yes. Share your completed project on LinkedIn, mention CodeAlpha, and include your GitHub repository link."
+  },
+  {
+    "category": "LinkedIn",
+    "question": "Should I upload a project explanation video?",
+    "answer": "Yes. A short project demonstration video is recommended because it shows how your project works."
+  },
+  {
+    "category": "LinkedIn",
+    "question": "Should I tag CodeAlpha?",
+    "answer": "Yes. Tag CodeAlpha when sharing your internship project, following the internship instructions."
+  },
+  {
+    "category": "LinkedIn",
+    "question": "Should I include GitHub links?",
+    "answer": "Yes. Include the working GitHub repository link in your LinkedIn post."
+  },
+  {
+    "category": "LinkedIn",
+    "question": "What should I write in my LinkedIn post?",
+    "answer": "Describe the project, mention the technologies used, explain what you learned, include screenshots or a demo, and provide the GitHub repository link."
+  },
+  {
+    "category": "Submission",
+    "question": "How do I submit my project?",
+    "answer": "Submit your completed project using the official submission form provided by CodeAlpha."
+  },
+  {
+    "category": "Submission",
+    "question": "Can I email my project?",
+    "answer": "Follow the official submission instructions. If the instructions specify the submission form, submit your project through that form."
+  },
+  {
+    "category": "Submission",
+    "question": "Can I submit after the deadline?",
+    "answer": "It is recommended to submit before the deadline. Late submissions may not be accepted."
+  },
+  {
+    "category": "Submission",
+    "question": "Should I verify my GitHub links before submitting?",
+    "answer": "Yes. Make sure every GitHub repository is public and every submitted link works correctly."
+  },
+  {
+    "category": "Submission",
+    "question": "Should I submit all project links together?",
+    "answer": "Yes. Include all required project links in the official submission form."
+  },
+  {
+    "category": "Certificate",
+    "question": "Will I receive a certificate?",
+    "answer": "After successfully completing the internship requirements, eligible interns can receive the applicable completion certificate."
+  },
+  {
+    "category": "Certificate",
+    "question": "What certificates are provided?",
+    "answer": "Depending on the internship and performance, interns may receive completion-related certificates and other recognition mentioned in the official internship instructions."
+  },
+  {
+    "category": "Certificate",
+    "question": "What is a QR Verified Certificate?",
+    "answer": "A QR Verified Certificate contains a QR code that can be used to verify the authenticity of the certificate."
+  },
+  {
+    "category": "Certificate",
+    "question": "Can employers verify the certificate?",
+    "answer": "A QR-enabled certificate can provide a way for organizations to verify its authenticity."
+  },
+  {
+    "category": "Certificate",
+    "question": "Can I add the certificate to my resume?",
+    "answer": "Yes. You can include your completed internship and certificate on your resume."
+  },
+  {
+    "category": "Certificate",
+    "question": "Can I share my certificate on LinkedIn?",
+    "answer": "Yes. Sharing your certificate on LinkedIn is a good way to showcase your internship experience."
+  },
+  {
+    "category": "Support",
+    "question": "Does CodeAlpha provide placement support?",
+    "answer": "CodeAlpha mentions placement support and job opportunities for eligible interns. Refer to the current official internship information for details."
+  },
+  {
+    "category": "Support",
+    "question": "Does CodeAlpha provide resume support?",
+    "answer": "Yes. Resume building support is mentioned as one of the internship benefits."
+  },
+  {
+    "category": "Support",
+    "question": "Will this internship improve my resume?",
+    "answer": "Yes. Completing practical projects gives you project experience that can strengthen your resume."
+  },
+  {
+    "category": "Support",
+    "question": "Will this internship help with placements?",
+    "answer": "Practical projects can strengthen your portfolio and improve your preparation for technical interviews."
+  },
+  {
+    "category": "Support",
+    "question": "Where can I get internship updates?",
+    "answer": "Follow the official CodeAlpha website, LinkedIn page, and official internship communication channels."
+  },
+  {
+    "category": "Support",
+    "question": "Who should I contact if I face issues?",
+    "answer": "Contact the CodeAlpha internship support team through the official communication channels provided to you."
+  },
+  {
+    "category": "Internship Help",
+    "question": "Help me complete internship",
+    "answer": "To successfully complete your CodeAlpha internship, complete at least two assigned projects, upload each project to a public GitHub repository with a README and screenshots, share your project on LinkedIn with the GitHub link, and submit your work through the official submission form. Check your official internship instructions for the exact deadline and requirements."
+  },
+  {
+    "category": "Internship Help",
+    "question": "How can I complete my internship?",
+    "answer": "Complete at least two assigned projects, upload them to GitHub, share your work on LinkedIn, and submit the required links through the official submission form."
+  },
+  {
+    "category": "Internship Help",
+    "question": "What should I do to complete the internship?",
+    "answer": "Complete at least two internship projects, maintain public GitHub repositories with proper documentation, share your work on LinkedIn, and submit everything through the official CodeAlpha submission form."
+  },
+  {
+    "category": "Internship Help",
+    "question": "How do I finish the internship?",
+    "answer": "Finish at least two assigned projects, upload them to GitHub, share them on LinkedIn, and submit them through the official submission form before the deadline."
+  },
+  {
+    "category": "Internship Help",
+    "question": "What are the requirements to complete the internship?",
+    "answer": "Complete at least two assigned projects, upload them to GitHub, share them on LinkedIn, and submit the required project links through the official submission form."
+  },
+  {
+    "category": "Internship Help",
+    "question": "Internship completion process",
+    "answer": "The internship completion process includes completing the required projects, uploading them to GitHub, sharing them on LinkedIn, and submitting the required links through the official submission form."
+  },
+  {
+    "category": "Internship Help",
+    "question": "How do I get the internship completion certificate?",
+    "answer": "Become eligible for the completion certificate by successfully meeting the internship requirements and submitting the required projects according to the official CodeAlpha guidelines."
+  },
+  {
+    "category": "Internship Help",
+    "question": "I want to complete my internship",
+    "answer": "Successfully finish at least two assigned projects, upload them to GitHub, share them on LinkedIn, and submit them using the official submission form."
+  },
+  {
+    "category": "Internship Help",
+    "question": "Guide me to complete the internship",
+    "answer": "Start by selecting at least two assigned projects. Complete and test them, create professional GitHub repositories with README files and screenshots, publish LinkedIn posts, and submit all required links through the official CodeAlpha submission form."
+  },
+  {
+    "category": "Internship Help",
+    "question": "What is the complete internship procedure?",
+    "answer": "The general procedure is: 1. Select your assigned projects. 2. Complete at least two projects. 3. Test and document them. 4. Upload them to GitHub. 5. Share them on LinkedIn. 6. Submit the required links through the official submission form. 7. Wait for evaluation and completion-related instructions."
+  },
+  {
+    "category": "Domains",
+    "question": "What are the domains available?",
+    "answer": "The available internship domains include Artificial Intelligence (AI), Web Development, Machine Learning (ML), Cyber Security, Data Science, Python Programming, and Java Programming. Please check the current official CodeAlpha internship announcement for the exact domains available in your program."
+  },
+  {
+    "category": "Domains",
+    "question": "Which domains are available in CodeAlpha?",
+    "answer": "CodeAlpha offers internship opportunities across technology domains such as Artificial Intelligence, Web Development, Machine Learning, Cyber Security, Data Science, Python Programming, and Java Programming, depending on the current internship program."
+  },
+  {
+    "category": "Domains",
+    "question": "What internship domains can I choose?",
+    "answer": "Depending on the current CodeAlpha program, domains may include AI, Machine Learning, Web Development, Cyber Security, Data Science, Python, and Java."
+  },
+  {
+    "category": "Domains",
+    "question": "Tell me the available domains",
+    "answer": "🤖 Available CodeAlpha Internship Domains:\n\n🧠 Artificial Intelligence (AI)\n🌐 Web Development\n🤖 Machine Learning (ML)\n🔐 Cyber Security\n📊 Data Science\n🐍 Python Programming\n☕ Java Programming\n\nThe exact availability can depend on the current internship program."
+  },
+  {
+    "category": "Python",
+    "question": "Which Python version should I use?",
+    "answer": "Python 3.10 or a compatible newer version is suitable for many of the projects. Check the specific project requirements if a particular version is required."
+  },
+  {
+    "category": "Python",
+    "question": "How do I install Flask?",
+    "answer": "Activate your virtual environment and run: pip install flask"
+  },
+  {
+    "category": "Python",
+    "question": "How do I install NLTK?",
+    "answer": "Activate your virtual environment and run: pip install nltk"
+  },
+  {
+    "category": "Python",
+    "question": "How do I install scikit-learn?",
+    "answer": "Activate your virtual environment and run: pip install scikit-learn"
+  },
+  {
+    "category": "Python",
+    "question": "What is Flask?",
+    "answer": "Flask is a lightweight Python web framework used to build web applications and APIs."
+  },
+  {
+    "category": "NLP",
+    "question": "What is tokenization?",
+    "answer": "Tokenization splits text into smaller units called tokens, such as words or sentences."
+  },
+  {
+    "category": "NLP",
+    "question": "What are stopwords?",
+    "answer": "Stopwords are common words such as 'the', 'is', and 'a' that may be removed during NLP preprocessing."
+  },
+  {
+    "category": "NLP",
+    "question": "What is lemmatization?",
+    "answer": "Lemmatization converts words into their base or dictionary form."
+  },
+  {
+    "category": "General",
+    "question": "What IDE is recommended?",
+    "answer": "VS Code and PyCharm are both excellent choices for developing Python and AI projects."
+  },
+  {
+    "category": "General",
+    "question": "Which operating system can I use?",
+    "answer": "Windows, Linux, and macOS can all be used for developing the internship projects."
+  },
+  {
+    "category": "General",
+    "question": "Can I use virtual environments?",
+    "answer": "Yes. Python virtual environments are recommended because they keep project dependencies isolated."
+  },
+  {
+    "category": "General",
+    "question": "Can I deploy my project online?",
+    "answer": "Yes. You can deploy your project online if the project and internship requirements allow it."
+  },
+  {
+    "category": "General",
+    "question": "Is this chatbot available anytime?",
+    "answer": "If the Flask application is running, the chatbot can respond to questions at any time."
+  },
+  {
+    "category": "General",
+    "question": "Can this chatbot answer GitHub questions?",
+    "answer": "Yes. The chatbot contains FAQs about GitHub repository naming, README files, screenshots, source code, and submission."
+  },
+  {
+    "category": "General",
+    "question": "Can this chatbot answer certificate questions?",
+    "answer": "Yes. It contains FAQs about completion certificates, QR verification, and certificate-related information."
+  },
+  {
+    "category": "General",
+    "question": "Can this chatbot answer submission questions?",
+    "answer": "Yes. It contains FAQs about project submission, GitHub links, LinkedIn posts, and the submission process."
+  },
+  {
+    "category": "General",
+    "question": "Can this chatbot answer project questions?",
+    "answer": "Yes. It can explain the CodeAlpha AI projects and technologies used in the projects."
+  }
+]

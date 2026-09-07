@@ -1,0 +1,55 @@
+.dark{
+
+background:#111827;
+
+}
+
+.dark .chat-container{
+
+background:#1f2937;
+
+}
+
+.dark #chat{
+
+background:#111827;
+
+}
+
+.dark .bot{
+
+background:#374151;
+
+color:white;
+
+}
+
+.dark .user{
+
+background:#2563eb;
+
+}
+
+.dark input{
+
+background:#374151;
+
+color:white;
+
+border:1px solid #666;
+
+}
+
+.dark .quick{
+
+background:#1f2937;
+
+}
+
+.dark .quick button{
+
+background:#4b5563;
+
+color:white;
+
+}
