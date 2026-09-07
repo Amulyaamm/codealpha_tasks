@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <meta name="description"
+          content="LinguaTranslate - Professional AI Language Translation Tool">
+
+    <title>LinguaTranslate | Language Translator</title>
+
+    <link rel="stylesheet"
+          href="{{ url_for('static', filename='css/style.css') }}">
+
+</head>
+
+
+<body>
+
+
+<!-- ================= NAVBAR ================= -->
+
+<header class="navbar">
+
+    <div class="logo">
+        <span class="logo-icon">🌐</span>
+        LinguaTranslate
+    </div>
+
+    <div class="tagline">
+        AI Language Translator
+    </div>
+
+</header>
+
+
+
+<!-- ================= MAIN ================= -->
+
+<main class="main-container">
+
+
+    <!-- HERO -->
+
+    <section class="hero">
+
+        <div class="badge">
+            ✨ Fast & Simple Translation
+        </div>
+
+        <h1>
+            Break Language
+            <span>Barriers</span>
+        </h1>
+
+        <p>
+            Translate text instantly between multiple languages.
+        </p>
+
+    </section>
+
+
+
+    <!-- TRANSLATOR -->
+
+    <section class="translator-card">
+
+
+        <!-- SOURCE LANGUAGE -->
+
+        <div class="language-box">
+
+            <div class="language-header">
+
+                <label for="sourceLanguage">
+                    From
+                </label>
+<select id="targetLanguage">
+
+    <option value="hi">Hindi</option>
+
+    <option value="en">English</option>
+    <option value="bn">Bengali</option>
+    <option value="te">Telugu</option>
+    <option value="mr">Marathi</option>
+    <option value="ta">Tamil</option>
+    <option value="gu">Gujarati</option>
+    <option value="kn">Kannada</option>
+    <option value="ml">Malayalam</option>
+    <option value="pa">Punjabi</option>
+    <option value="or">Odia</option>
+    <option value="as">Assamese</option>
+    <option value="ur">Urdu</option>
+    <option value="sa">Sanskrit</option>
+    <option value="ne">Nepali</option>
+    <option value="ks">Kashmiri</option>
+    <option value="sd">Sindhi</option>
+    <option value="kok">Konkani</option>
+    <option value="mai">Maithili</option>
+    <option value="mni">Manipuri</option>
+    <option value="doi">Dogri</option>
+    <option value="brx">Bodo</option>
+    <option value="sat">Santali</option>
+
+</select>
+            </div>
+
+
+            <textarea
+                id="sourceText"
+                placeholder="Enter text to translate..."
+                maxlength="5000">
+            </textarea>
+
+
+            <div class="box-footer">
+
+                <span id="characterCount">
+                    0 / 5000
+                </span>
+
+                <button
+                    id="clearButton"
+                    class="small-button">
+
+                    Clear
+
+                </button>
+
+            </div>
+
+        </div>
+
+
+
+        <!-- SWAP BUTTON -->
+
+        <button
+            id="swapButton"
+            class="swap-button"
+            title="Swap languages">
+
+            ⇄
+
+        </button>
+
+
+
+        <!-- TARGET LANGUAGE -->
+
+        <div class="language-box">
+
+            <div class="language-header">
+
+                <label for="targetLanguage">
+                    To
+                </label>
+
+                <select id="targetLanguage">
+
+                    <option value="hi">
+                        Hindi
+                    </option>
+
+                    <option value="en">
+                        English
+                    </option>
+
+                    <option value="kn">
+                        Kannada
+                    </option>
+
+                    <option value="ta">
+                        Tamil
+                    </option>
+
+                    <option value="te">
+                        Telugu
+                    </option>
+
+                    <option value="ml">
+                        Malayalam
+                    </option>
+
+                    <option value="fr">
+                        French
+                    </option>
+
+                    <option value="de">
+                        German
+                    </option>
+
+                    <option value="es">
+                        Spanish
+                    </option>
+
+                </select>
+
+            </div>
+
+
+            <textarea
+                id="translatedText"
+                placeholder="Your translation will appear here..."
+                readonly>
+            </textarea>
+
+
+            <div class="box-footer">
+
+                <span>
+                    Translation
+                </span>
+
+                <div>
+
+                    <button
+                        id="copyButton"
+                        class="small-button">
+
+                        📋 Copy
+
+                    </button>
+
+                    <button
+                        id="speakButton"
+                        class="small-button">
+
+                        🔊 Speak
+
+                    </button>
+
+                </div>
+
+            </div>
+
+        </div>
+
+
+
+        <!-- TRANSLATE BUTTON -->
+
+        <button
+            id="translateButton"
+            class="translate-button">
+
+            <span>Translate</span>
+
+            <span>→</span>
+
+        </button>
+
+
+        <!-- STATUS -->
+
+        <div
+            id="statusMessage"
+            class="status-message">
+        </div>
+
+
+    </section>
+
+
+</main>
+
+
+
+<!-- ================= FOOTER ================= -->
+
+<footer>
+
+    <p>
+        © 2026 LinguaTranslate
+    </p>
+
+    <span>
+        Built with Python & Flask
+    </span>
+
+</footer>
+
+
+
+<script
+    src="{{ url_for('static', filename='js/script.js') }}">
+</script>
+
+
+</body>
+
+</html>
