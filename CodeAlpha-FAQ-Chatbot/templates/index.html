@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>CodeAlpha AI Assistant</title>
+
+    <link rel="stylesheet"
+          href="{{ url_for('static', filename='css/style.css') }}">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+          rel="stylesheet">
+
+</head>
+
+<body>
+
+<header>
+
+    <div class="logo">
+
+        <img src="{{ url_for('static', filename='images/logo.png') }}">
+
+        <h2>CodeAlpha AI</h2>
+
+    </div>
+
+    <nav>
+
+        <a href="#">Home</a>
+
+        <a href="#features">Features</a>
+
+        <a href="#about">About</a>
+
+        <a href="#contact">Contact</a>
+
+    </nav>
+
+</header>
+
+<!-- ================= HERO ================= -->
+
+<section class="hero">
+
+    <div class="left">
+
+        <h1>
+
+            Welcome to the
+            <br>
+            CodeAlpha AI
+            Internship Assistant
+
+        </h1>
+
+        <p>
+
+            An intelligent chatbot that answers all your
+            CodeAlpha Internship questions instantly using
+            Natural Language Processing, TF-IDF and Cosine Similarity.
+
+        </p>
+
+        <div class="buttons">
+
+            <a href="/chat" class="start">
+
+                💬 Start Chat
+
+            </a>
+
+            <a href="#about" class="learn">
+
+                Learn More
+
+            </a>
+
+        </div>
+
+    </div>
+
+    <!-- RIGHT SIDE ROBOT -->
+
+    <div class="right">
+
+        <lottie-player
+                src="https://assets2.lottiefiles.com/packages/lf20_iorpbol0.json"
+                background="transparent"
+                speed="1"
+                loop
+                autoplay
+                style="width:520px;height:520px;">
+        </lottie-player>
+
+    </div>
+
+</section>
+
+<!-- ================= FEATURES ================= -->
+
+<section id="features" class="features">
+
+    <h2>Features</h2>
+
+    <div class="cards">
+
+        <div class="card">
+
+            <h3>AI Chatbot</h3>
+
+            <p>
+
+                Answers internship FAQs instantly using NLP.
+
+            </p>
+
+        </div>
+
+        <div class="card">
+
+            <h3>GitHub Guide</h3>
+
+            <p>
+
+                Repository naming, README and upload guidance.
+
+            </p>
+
+        </div>
+
+        <div class="card">
+
+            <h3>Submission</h3>
+
+            <p>
+
+                Complete internship submission instructions.
+
+            </p>
+
+        </div>
+
+        <div class="card">
+
+            <h3>Certificates</h3>
+
+            <p>
+
+                Learn about certificates and recommendations.
+
+            </p>
+
+        </div>
+
+    </div>
+
+</section>
+
+<!-- ================= ABOUT ================= -->
+
+<section id="about">
+<section id="about" class="about">
+
+    <div class="section-title">
+
+        <h2>Why Choose CodeAlpha AI Assistant?</h2>
+
+        <p>
+            Your smart companion for successfully completing the CodeAlpha
+            Artificial Intelligence Internship.
+        </p>
+
+    </div>
+
+    <div class="about-grid">
+
+        <div class="about-card">
+
+            <h3>🤖 AI Powered</h3>
+
+            <p>
+                Uses Natural Language Processing to understand your questions
+                and provide instant answers related to the internship.
+            </p>
+
+        </div>
+
+        <div class="about-card">
+
+            <h3>⚡ Instant Responses</h3>
+
+            <p>
+                Get answers about projects, GitHub, certificates,
+                submissions, eligibility and internship guidelines
+                within seconds.
+            </p>
+
+        </div>
+
+        <div class="about-card">
+
+            <h3>📚 Complete Internship Guide</h3>
+
+            <p>
+                Everything you need in one place—from project ideas
+                to certificate information and submission process.
+            </p>
+
+        </div>
+
+        <div class="about-card">
+
+            <h3>🎯 24×7 Assistant</h3>
+
+            <p>
+                Available anytime to answer your internship questions,
+                making your learning experience faster and easier.
+            </p>
+
+        </div>
+
+    </div>
+
+</section>
+
+<!-- ================= CONTACT ================= -->
+<section id="contact" class="contact">
+
+    <h2>Connect With CodeAlpha</h2>
+
+    <p>
+        Explore the official website and stay updated with the latest
+        internship announcements and opportunities.
+    </p>
+
+    <div class="contact-buttons">
+
+        <a href="https://www.codealpha.tech/"
+           target="_blank"
+           class="contact-btn">
+
+            🌐 Official Website
+
+        </a>
+
+        <a href="https://www.linkedin.com/company/codealpha/posts/?feedView=all"
+           target="_blank"
+           class="contact-btn">
+
+            💼 LinkedIn
+
+        </a>
+
+        <a href="/chat"
+           class="contact-btn dark">
+
+            💬 Open AI Assistant
+
+        </a>
+
+    </div>
+
+</section>
+<!-- ================= FOOTER ================= -->
+
+<footer>
+
+    <p>
+
+        © 2026 CodeAlpha AI Assistant
+
+    </p>
+
+    <p>
+
+        Developed by Amulya BN
+
+    </p>
+
+</footer>
+
+<!-- Floating Chat Button -->
+
+<a href="/chat" class="floating-chat">
+
+    💬
+
+</a>
+
+<!-- Lottie Library -->
+
+<script src="https://unpkg.com/@lottiefiles/lottie-player@2.0.12/dist/lottie-player.js"></script>
+
+</body>
+
+</html>

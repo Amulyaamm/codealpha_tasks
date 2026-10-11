@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+content="width=device-width, initial-scale=1.0">
+
+<title>CodeAlpha AI Assistant</title>
+
+<link rel="stylesheet"
+href="{{ url_for('static', filename='css/chat.css') }}">
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+rel="stylesheet">
+
+</head>
+
+<body>
+
+<div class="container">
+
+    <!-- Sidebar -->
+
+    <aside class="sidebar">
+
+        <div>
+
+            <img src="{{ url_for('static', filename='images/logo.png') }}" class="logo">
+
+            <h2>CodeAlpha AI</h2>
+
+            <p>Internship Assistant</p>
+
+        </div>
+
+        <div class="menu">
+
+            <button onclick="location.reload()">
+                🆕 New Chat
+            </button>
+
+            <button onclick="clearChat()">
+                🗑 Clear Chat
+            </button>
+
+            <button onclick="window.location='/'">
+                🏠 Home
+            </button>
+
+        </div>
+
+    </aside>
+
+
+
+    <!-- Chat Area -->
+
+    <main class="chat-section">
+
+        <div class="chat-header">
+
+            <img src="{{ url_for('static', filename='images/chatbot.png') }}">
+
+            <div>
+
+                <h2>CodeAlpha AI Assistant</h2>
+
+                <span>● Online</span>
+
+            </div>
+
+        </div>
+
+
+
+        <div id="chat-box">
+
+            <div class="bot-message">
+
+                👋 Hello!
+
+                <br><br>
+
+                I'm your CodeAlpha AI Internship Assistant.
+
+                <br><br>
+
+                Ask me anything about
+
+                Internship,
+
+                Certificates,
+
+                GitHub,
+
+                Submission,
+
+                AI Tasks,
+
+                Recommendation Letter,
+
+                Repository,
+
+                LinkedIn etc.
+
+            </div>
+
+        </div>
+
+
+
+        <!-- Quick Buttons -->
+
+        <div class="quick">
+
+            <button onclick="quickQuestion('Internship')">
+                Internship
+            </button>
+
+            <button onclick="quickQuestion('Certificate')">
+                Certificate
+            </button>
+
+            <button onclick="quickQuestion('GitHub')">
+                GitHub
+            </button>
+
+            <button onclick="quickQuestion('Submission')">
+                Submission
+            </button>
+
+            <button onclick="quickQuestion('AI Tasks')">
+                AI Tasks
+            </button>
+
+        </div>
+
+
+
+        <!-- Input -->
+
+        <div class="input-area">
+
+            <input
+
+            id="message"
+
+            type="text"
+
+            placeholder="Ask your question..."
+
+            onkeypress="if(event.key==='Enter') sendMessage()"
+
+            >
+
+            <button onclick="sendMessage()">
+
+                Send
+
+            </button>
+
+        </div>
+
+    </main>
+
+</div>
+
+
+
+<script src="{{ url_for('static', filename='js/chat.js') }}"></script>
+
+</body>
+
+</html>
